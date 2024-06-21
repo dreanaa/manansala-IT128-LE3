@@ -12,7 +12,10 @@ namespace BlogTestUI
         static void Main(string[] args)
         {
             SqlData db = GetConnection();
+            Console.WriteLine("Adding a post, please authenticate...");
             AddPost(db);
+            Console.WriteLine("Post added, please enter post ID...");
+            ShowPostDetails(db);
             Console.WriteLine("Press enter to exit...");
             Console.ReadLine();
         }
@@ -108,7 +111,7 @@ namespace BlogTestUI
             Console.WriteLine($"by {p.FirstName} {p.LastName} [{p.UserName}]");
             Console.WriteLine();
             Console.WriteLine(p.Body);
-            Console.WriteLine(p.DateCreated);
+            Console.WriteLine(p.DateCreated.ToString("MMM d yyyy"));
         }
     }
 }
