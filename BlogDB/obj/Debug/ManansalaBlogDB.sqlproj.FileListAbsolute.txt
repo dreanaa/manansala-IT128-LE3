@@ -1,0 +1,10 @@
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\bin\Debug\ManansalaBlogDB.dacpac
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\bin\Debug\BlogDB.dll
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\bin\Debug\BlogDB.pdb
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\obj\Debug\ManansalaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\obj\Debug\BlogDB.dll
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\obj\Debug\BlogDB.pdb
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\obj\Debug\Model.xml
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\obj\Debug\refactor.xml
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\obj\Debug\postdeploy.sql
+C:\Users\Neal\source\repos\BlogDataLibrary\BlogDB\obj\Debug\predeploy.sql
